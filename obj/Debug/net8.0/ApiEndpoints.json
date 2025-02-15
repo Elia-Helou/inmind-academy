@@ -1,0 +1,53 @@
+[
+  {
+    "ContainingType": "Lab3.Api.Controllers.AuthorController",
+    "Method": "GetAuthorsGroupedByBirthYear",
+    "RelativePath": "api/author/GetAuthorsGroupedByBirthYear",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lab3.Api.Controllers.AuthorController",
+    "Method": "GetAuthorsGroupedByBirthYearAndCountry",
+    "RelativePath": "api/author/GetAuthorsGroupedByBirthYearAndCountry",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lab3.Api.Controllers.BookController",
+    "Method": "GetBooksByYear",
+    "RelativePath": "api/book/GetBooksByYear",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "order",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lab3.Api.Controllers.BookController",
+    "Method": "GetTotalNumberOfBooks",
+    "RelativePath": "api/book/GetTotalNumberOfBooks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
