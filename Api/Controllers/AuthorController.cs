@@ -13,6 +13,7 @@ namespace lab4.Api.Controllers
             _context = context;
         }
 
+        [EnableQuery]
         [HttpGet("[action]")]
         public IActionResult Get()
         {
