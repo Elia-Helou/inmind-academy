@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\api\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:api\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\application\\services\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:application\\services\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\api\\viewmodels\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:api\\viewmodels\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\api\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:api\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\api\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:api\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\api\\viewmodels\\classviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:api\\viewmodels\\classviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\api\\viewmodels\\classenrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:api\\viewmodels\\classenrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\migrations\\20250219091755_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:migrations\\20250219091755_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\domain\\models\\classenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:domain\\models\\classenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\domain\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:domain\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\domain\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:domain\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\domain\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:domain\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|c:\\users\\elia\\desktop\\imind\\lab4-2\\lab4-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E091DB8-1CE1-4B9E-8A0B-447708DD9E9A}|Lab4-2.csproj|solutionrelative:lab4-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:18:08.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "API\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:17:17.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Application\\services\\EntityMapper.cs",
+              "RelativeDocumentMoniker": "Application\\services\\EntityMapper.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Application\\services\\EntityMapper.cs",
+              "RelativeToolTip": "Application\\services\\EntityMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:47:11.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "API\\ViewModels\\CourseViewModel.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\CourseViewModel.cs",
+              "RelativeToolTip": "API\\ViewModels\\CourseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:45:18.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\ClassViewModel.cs",
+              "RelativeDocumentMoniker": "API\\ViewModels\\ClassViewModel.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\ClassViewModel.cs",
+              "RelativeToolTip": "API\\ViewModels\\ClassViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:45:07.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\AppDbContext.cs",
+              "RelativeToolTip": "Domain\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:03:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassEnrollmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\ClassEnrollmentViewModel.cs",
+              "RelativeDocumentMoniker": "API\\ViewModels\\ClassEnrollmentViewModel.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\ClassEnrollmentViewModel.cs",
+              "RelativeToolTip": "API\\ViewModels\\ClassEnrollmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:45:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "API\\ViewModels\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "API\\ViewModels\\StudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:44:57.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:32:56.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\TeacherViewModel.cs",
+              "RelativeDocumentMoniker": "API\\ViewModels\\TeacherViewModel.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\API\\ViewModels\\TeacherViewModel.cs",
+              "RelativeToolTip": "API\\ViewModels\\TeacherViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:44:46.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250219091755_Initialization.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Migrations\\20250219091755_Initialization.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250219091755_Initialization.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Migrations\\20250219091755_Initialization.cs",
+              "RelativeToolTip": "Migrations\\20250219091755_Initialization.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAswIcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:41:36.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T23:04:21.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassEnrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\ClassEnrollment.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ClassEnrollment.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\ClassEnrollment.cs",
+              "RelativeToolTip": "Domain\\Models\\ClassEnrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:54:08.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\Course.cs",
+              "RelativeToolTip": "Domain\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:52:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\Class.cs",
+              "RelativeToolTip": "Domain\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:47:31.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\Teacher.cs",
+              "RelativeToolTip": "Domain\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:47:21.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Domain\\Models\\Student.cs",
+              "RelativeToolTip": "Domain\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:47:03.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Lab4-2.csproj",
+              "DocumentMoniker": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Lab4-2.csproj",
+              "RelativeDocumentMoniker": "Lab4-2.csproj",
+              "ToolTip": "C:\\Users\\Elia\\Desktop\\imind\\Lab4-2\\Lab4-2.csproj",
+              "RelativeToolTip": "Lab4-2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T22:46:48.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
